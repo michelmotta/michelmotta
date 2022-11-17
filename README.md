@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently learning **Go**
-- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
+- :office: &nbsp;I'm currently working at **Federal University of Mato Grosso do Sul**
+- :seedling: &nbsp;I’m currently learning **DevOps**
+- :speech_balloon: &nbsp;I like to talk about **Web Development**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
