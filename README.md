@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- :office: &nbsp;I'm currently working at **[84.51°]**
+- :seedling: &nbsp;I’m currently learning **Go**
+- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+
 <!--
 **michelmotta/michelmotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
